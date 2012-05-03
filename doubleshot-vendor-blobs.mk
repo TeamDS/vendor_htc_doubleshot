@@ -55,22 +55,12 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/libacdbmapper.so:system/lib/libacdbmapper.so \
   vendor/htc/doubleshot/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
   vendor/htc/doubleshot/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
-  vendor/htc/doubleshot/proprietary/lib/libcamera.so:system/lib/libcamera.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_imx105_default_video.so:system/lib/libchromatix_imx105_default_video.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_imx105_preview.so:system/lib/libchromatix_imx105_preview.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_imx105_zsl.so:system/lib/libchromatix_imx105_zsl.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_mt9d015_default_video.so:system/lib/libchromatix_mt9d015_default_video.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_mt9d015_default_zsl.so:system/lib/libchromatix_mt9d015_default_zsl.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_mt9d015_preview.so:system/lib/libchromatix_mt9d015_preview.so \
-  vendor/htc/doubleshot/proprietary/lib/libchromatix_ov8830_default_video.so:system/lib/libchromatix_ov8830_default_video.so \
-  vendor/htc/doubleshot/proprietary/lib/libchromatix_ov8830_preview.so:system/lib/libchromatix_ov8830_preview.so \
-  vendor/htc/doubleshot/proprietary/lib/libchromatix_ov8830_zsl.so:system/lib/libchromatix_ov8830_zsl.so \
-  vendor/htc/doubleshot/proprietary/lib/libchromatix_s5k3h1gx_default_video.so:system/lib/libchromatix_s5k3h1gx_default_video.so \
-  vendor/htc/doubleshot/proprietary/lib/libchromatix_s5k3h1gx_preview.so:system/lib/libchromatix_s5k3h1gx_preview.so \
-  vendor/htc/doubleshot/proprietary/lib/libchromatix_s5k3h2yx_default_video.so:system/lib/libchromatix_s5k3h2yx_default_video.so \
-  vendor/htc/doubleshot/proprietary/lib/libchromatix_s5k3h2yx_hfr.so:system/lib/libchromatix_s5k3h2yx_hfr.so \
-  vendor/htc/doubleshot/proprietary/lib/libchromatix_s5k3h2yx_preview.so:system/lib/libchromatix_s5k3h2yx_preview.so \
-  vendor/htc/doubleshot/proprietary/lib/libchromatix_s5k3h2yx_zsl.so:system/lib/libchromatix_s5k3h2yx_zsl.so \
   vendor/htc/doubleshot/proprietary/lib/libaudcalwb.so:system/lib/libaudcalwb.so \
   vendor/htc/doubleshot/proprietary/lib/libdiag.so:system/lib/libdiag.so \
   vendor/htc/doubleshot/proprietary/lib/libdll.so:system/lib/libdll.so \
@@ -82,23 +72,26 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \
   vendor/htc/doubleshot/proprietary/lib/libidl.so:system/lib/libidl.so \
   vendor/htc/doubleshot/proprietary/lib/libkineto.so:system/lib/libkineto.so \
-  vendor/htc/doubleshot/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
+  vendor/htc/doubleshot/proprietary/lib/libmllite.so:system/lib/libmllite.so \
+  vendor/htc/doubleshot/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
   vendor/htc/doubleshot/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+  vendor/htc/doubleshot/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
+  vendor/htc/doubleshot/proprietary/lib/libmpl.so:system/lib/libmpl.so \
+  vendor/htc/doubleshot/proprietary/lib/libmpl_jni.so:system/lib/libmpl_jni.so \
   vendor/htc/doubleshot/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
   vendor/htc/doubleshot/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
   vendor/htc/doubleshot/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
-  vendor/htc/doubleshot/proprietary/lib/liboverlay.so:system/lib/liboverlay.so \
   vendor/htc/doubleshot/proprietary/lib/libposteffect.so:system/lib/libposteffect.so \
   vendor/htc/doubleshot/proprietary/lib/libqdp.so:system/lib/libqdp.so \
   vendor/htc/doubleshot/proprietary/lib/libqmi.so:system/lib/libqmi.so \
+  vendor/htc/doubleshot/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
   vendor/htc/doubleshot/proprietary/lib/librilswitch.so:system/lib/librilswitch.so \
+  vendor/htc/doubleshot/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
   vendor/htc/doubleshot/proprietary/lib/libwebkitaccel.so:system/lib/libwebkitaccel.so \
-  vendor/htc/doubleshot/proprietary/lib/hw/lights.msm8660.so:system/lib/hw/lights.msm8660.so \
-  vendor/htc/doubleshot/proprietary/lib/hw/sensors.doubleshot.so:system/lib/hw/sensors.doubleshot.so \
   vendor/htc/doubleshot/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
   vendor/htc/doubleshot/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
   vendor/htc/doubleshot/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
   vendor/htc/doubleshot/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
   vendor/htc/doubleshot/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
-  vendor/htc/doubleshot/proprietary/lib/libv8.so:system/lib/libv8.so
+  vendor/htc/doubleshot/proprietary/lib/libv8.so:system/lib/libv8.so \
   vendor/htc/doubleshot/proprietary/lib/libgsl.so:system/lib/libgsl.so
