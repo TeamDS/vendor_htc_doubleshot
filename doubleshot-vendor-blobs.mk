@@ -22,6 +22,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/doubleshot/proprietary/lib/libv8.so:obj/lib/libv8.so
 
 PRODUCT_COPY_FILES += \
+  vendor/htc/doubleshot/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
   vendor/htc/doubleshot/proprietary/bin/akmd:system/bin/akmd \
   vendor/htc/doubleshot/proprietary/bin/awb_camera:system/bin/awb_camera \
   vendor/htc/doubleshot/proprietary/bin/bma150_usr:system/bin/bma150_usr \
