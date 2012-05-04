@@ -56,6 +56,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
   vendor/htc/doubleshot/proprietary/lib/libacdbmapper.so:system/lib/libacdbmapper.so \
   vendor/htc/doubleshot/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
+  vendor/htc/doubleshot/proprietary/lib/libaudcalwb.so:system/lib/libaudcalwb.so \
   vendor/htc/doubleshot/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
   vendor/htc/doubleshot/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
   vendor/htc/doubleshot/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
@@ -78,6 +79,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/libkineto.so:system/lib/libkineto.so \
   vendor/htc/doubleshot/proprietary/lib/libmllite.so:system/lib/libmllite.so \
   vendor/htc/doubleshot/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
+  vendor/htc/doubleshot/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
   vendor/htc/doubleshot/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
   vendor/htc/doubleshot/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
   vendor/htc/doubleshot/proprietary/lib/libmpl.so:system/lib/libmpl.so \
