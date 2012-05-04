@@ -58,7 +58,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
   vendor/htc/doubleshot/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
   vendor/htc/doubleshot/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
-  vendor/htc/doubleshot/proprietary/lib/libcamarapp.so:system/lib/libcamerapp.so \
+  vendor/htc/doubleshot/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_imx105_default_video.so:system/lib/libchromatix_imx105_default_video.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_imx105_preview.so:system/lib/libchromatix_imx105_preview.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_imx105_zsl.so:system/lib/libchromatix_imx105_zsl.so \
