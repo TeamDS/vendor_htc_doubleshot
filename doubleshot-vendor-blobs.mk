@@ -51,11 +51,14 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/xbin/wireless_modem:system/xbin/wireless_modem \
   vendor/htc/doubleshot/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc/doubleshot/proprietary/etc/vpimg:system/etc/vpimg \
+  vendor/htc/doubleshot/proprietary/lib/hw/camera.default.so:system/lib/hw/camera.default.so \
   vendor/htc/doubleshot/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
   vendor/htc/doubleshot/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
   vendor/htc/doubleshot/proprietary/lib/libacdbmapper.so:system/lib/libacdbmapper.so \
   vendor/htc/doubleshot/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
   vendor/htc/doubleshot/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
+  vendor/htc/doubleshot/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
+  vendor/htc/doubleshot/proprietary/lib/libcamarapp.so:system/lib/libcamerapp.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_imx105_default_video.so:system/lib/libchromatix_imx105_default_video.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_imx105_preview.so:system/lib/libchromatix_imx105_preview.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_imx105_zsl.so:system/lib/libchromatix_imx105_zsl.so \
