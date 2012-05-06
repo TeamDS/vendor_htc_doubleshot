@@ -22,6 +22,10 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/doubleshot/proprietary/lib/libv8.so:obj/lib/libv8.so
 
 PRODUCT_COPY_FILES += \
+  vendor/htc/doubleshot/proprietary/etc/firmware/BCM4329B1_002.002.023.0589.0632.hcd:system/etc/firmware/BCM4329B1_002.002.023.0589.0632.hcd \
+  vendor/htc/doubleshot/proprietary/etc/firmware/bcm4329.hcd:system/etc/firmware/bcm4329.hcd \
+  vendor/htc/doubleshot/proprietary/etc/firmware/fw_bcm4329_apsta.bin:system/etc/firmware/fw_bcm4329_apsta.bin \
+  vendor/htc/doubleshot/proprietary/etc/firmware/fw_bcm4329.bin:system/etc/firmware/fw_bcm4329.bin \
   vendor/htc/doubleshot/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
   vendor/htc/doubleshot/proprietary/bin/akmd:system/bin/akmd \
   vendor/htc/doubleshot/proprietary/bin/awb_camera:system/bin/awb_camera \
@@ -52,6 +56,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc/doubleshot/proprietary/etc/vpimg:system/etc/vpimg \
   vendor/htc/doubleshot/proprietary/lib/hw/camera.default.so:system/lib/hw/camera.default.so \
+  vendor/htc/doubleshot/proprietary/lib/libOlaEngine.so:system/lib/libOlaEngine.so \
   vendor/htc/doubleshot/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
   vendor/htc/doubleshot/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
   vendor/htc/doubleshot/proprietary/lib/libacdbmapper.so:system/lib/libacdbmapper.so \
