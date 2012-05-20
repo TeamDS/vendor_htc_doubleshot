@@ -56,11 +56,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc/doubleshot/proprietary/etc/vpimg:system/etc/vpimg \
   vendor/htc/doubleshot/proprietary/lib/hw/camera.default.so:system/lib/hw/camera.default.so \
-  vendor/htc/doubleshot/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
-  vendor/htc/doubleshot/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
-  vendor/htc/doubleshot/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
-  vendor/htc/doubleshot/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.msm8660.so \
-  vendor/htc/doubleshot/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.msm8660.so \
   vendor/htc/doubleshot/proprietary/lib/libOlaEngine.so:system/lib/libOlaEngine.so \
   vendor/htc/doubleshot/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
   vendor/htc/doubleshot/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
@@ -111,3 +106,4 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
   vendor/htc/doubleshot/proprietary/lib/libv8.so:system/lib/libv8.so \
   vendor/htc/doubleshot/proprietary/lib/libgsl.so:system/lib/libgsl.so
+
