@@ -71,6 +71,10 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_mt9d015_default_video.so:system/lib/libchromatix_mt9d015_default_video.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_mt9d015_default_zsl.so:system/lib/libchromatix_mt9d015_default_zsl.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_mt9d015_preview.so:system/lib/libchromatix_mt9d015_preview.so \
+  vendor/htc/doubleshot/proprietary/lib/libchromatix_s5k3h2yx_default_video.so:system/lib/libchromatix_s5k3h2yx_default_video.so \
+  vendor/htc/doubleshot/proprietary/lib/libchromatix_s5k3h2yx_hfr.so:system/lib/libchromatix_s5k3h2yx_hfr.so \
+  vendor/htc/doubleshot/proprietary/lib/libchromatix_s5k3h2yx_preview.so:system/lib/libchromatix_s5k3h2yx_preview.so \
+  vendor/htc/doubleshot/proprietary/lib/libchromatix_s5k3h2yx_zsl.so:system/lib/libchromatix_s5k3h2yx_zsl.so \
   vendor/htc/doubleshot/proprietary/lib/libaudcalwb.so:system/lib/libaudcalwb.so \
   vendor/htc/doubleshot/proprietary/lib/libdiag.so:system/lib/libdiag.so \
   vendor/htc/doubleshot/proprietary/lib/libdll.so:system/lib/libdll.so \
