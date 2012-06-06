@@ -86,11 +86,9 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
   vendor/htc/doubleshot/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
   vendor/htc/doubleshot/proprietary/lib/libgemini.so:system/lib/libgemini.so \
-  vendor/htc/doubleshot/proprietary/lib/libganril.so:system/lib/libganril.so \
   vendor/htc/doubleshot/proprietary/lib/libhtc_acoustic.so:system/lib/libhtc_acoustic.so \
   vendor/htc/doubleshot/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \
   vendor/htc/doubleshot/proprietary/lib/libidl.so:system/lib/libidl.so \
-  vendor/htc/doubleshot/proprietary/lib/libkineto.so:system/lib/libkineto.so \
   vendor/htc/doubleshot/proprietary/lib/libmllite.so:system/lib/libmllite.so \
   vendor/htc/doubleshot/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
   vendor/htc/doubleshot/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
@@ -105,7 +103,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/libqdp.so:system/lib/libqdp.so \
   vendor/htc/doubleshot/proprietary/lib/libqmi.so:system/lib/libqmi.so \
   vendor/htc/doubleshot/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
-  vendor/htc/doubleshot/proprietary/lib/librilswitch.so:system/lib/librilswitch.so \
   vendor/htc/doubleshot/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
   vendor/htc/doubleshot/proprietary/lib/libwebkitaccel.so:system/lib/libwebkitaccel.so \
   vendor/htc/doubleshot/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
@@ -114,5 +111,9 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
   vendor/htc/doubleshot/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
   vendor/htc/doubleshot/proprietary/lib/libv8.so:system/lib/libv8.so \
-  vendor/htc/doubleshot/proprietary/lib/libgsl.so:system/lib/libgsl.so
+  vendor/htc/doubleshot/proprietary/lib/libgsl.so:system/lib/libgsl.so \
+  vendor/htc/doubleshot/proprietary/lib/librilswitch.so:system/lib/librilswitch.so \
+  vendor/htc/doubleshot/proprietary/lib/libkineto.so:system/lib/libkineto.so \
+  vendor/htc/doubleshot/proprietary/lib/libganril.so:system/lib/libganril.so \
+  vendor/htc/doubleshot/proprietary/app/HTC-PYRTM-ICS-4.0.1-2.3-49986-4.3.apk:system/app/HTC-PYRTM-ICS-4.0.1-2.3-49986-4.3.apk
 
