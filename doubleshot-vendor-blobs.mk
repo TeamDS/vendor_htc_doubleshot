@@ -18,8 +18,7 @@
 PRODUCT_COPY_FILES += \
 	vendor/htc/doubleshot/proprietary/lib/libacdbloader.so:obj/lib/libacdbloader.so \
 	vendor/htc/doubleshot/proprietary/lib/libacdbmapper.so:obj/lib/libacdbmapper.so \
-	vendor/htc/doubleshot/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
-	vendor/htc/doubleshot/proprietary/lib/libv8.so:obj/lib/libv8.so
+	vendor/htc/doubleshot/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so
 
 PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/etc/firmware/BCM4329B1_002.002.023.0589.0632.hcd:system/etc/firmware/BCM4329B1_002.002.023.0589.0632.hcd \
@@ -105,10 +104,8 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
   vendor/htc/doubleshot/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
   vendor/htc/doubleshot/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
-  vendor/htc/doubleshot/proprietary/lib/libv8.so:system/lib/libv8.so \
   vendor/htc/doubleshot/proprietary/lib/libgsl.so:system/lib/libgsl.so \
-  vendor/htc/doubleshot/proprietary/lib/librilswitch.so:system/lib/librilswitch.so \
-  vendor/htc/doubleshot/proprietary/lib/libkineto.so:system/lib/libkineto.so \
-  vendor/htc/doubleshot/proprietary/lib/libganril.so:system/lib/libganril.so \
-  vendor/htc/doubleshot/proprietary/app/HTC-PYRTM-ICS-4.0.1-2.3-49986-4.3.apk:system/app/HTC-PYRTM-ICS-4.0.1-2.3-49986-4.3.apk
-
+  vendor/htc/doubleshot/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
+  vendor/htc/doubleshot/proprietary/lib/hw/lights.doubleshot.so:system/lib/hw/lights.doubleshot.so \
+  vendor/htc/doubleshot/proprietary/lib/hw/sensors.doubleshot.so:system/lib/hw/sensors.doubleshot.so \
+  vendor/htc/doubleshot/proprietary/lib/hw/gps.doubleshot.so:system/lib/hw/gps.doubleshot.so
