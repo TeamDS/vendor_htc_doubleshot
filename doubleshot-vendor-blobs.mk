@@ -27,11 +27,9 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/bin/charging:system/bin/charging \
   vendor/htc/doubleshot/proprietary/bin/htcbatt:system/bin/htcbatt \
   vendor/htc/doubleshot/proprietary/bin/ipd:system/bin/ipd \
-  vendor/htc/doubleshot/proprietary/bin/mpdecision:system/bin/mpdecision \
   vendor/htc/doubleshot/proprietary/bin/netmgrd:system/bin/netmgrd \
   vendor/htc/doubleshot/proprietary/bin/netsharing:system/bin/netsharing \
   vendor/htc/doubleshot/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-  vendor/htc/doubleshot/proprietary/bin/thermald:system/bin/thermald \
   vendor/htc/doubleshot/proprietary/bin/qmuxd:system/bin/qmuxd \
   vendor/htc/doubleshot/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc/doubleshot/proprietary/etc/vpimg:system/etc/vpimg \
@@ -82,3 +80,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
   vendor/htc/doubleshot/proprietary/lib/libgsl.so:system/lib/libgsl.so \
   vendor/htc/doubleshot/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so
+
+#  vendor/htc/doubleshot/proprietary/bin/mpdecision:system/bin/mpdecision \
+#  vendor/htc/doubleshot/proprietary/bin/thermald:system/bin/thermald \
