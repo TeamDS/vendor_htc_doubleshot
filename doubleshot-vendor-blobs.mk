@@ -36,7 +36,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc/doubleshot/proprietary/etc/vpimg:system/etc/vpimg \
   vendor/htc/doubleshot/proprietary/lib/hw/camera.default.so:system/lib/hw/vendor-camera.default.so \
-  vendor/htc/doubleshot/proprietary/lib/hw/lights.doubleshot.so:system/lib/hw/lights.doubleshot.so \
   vendor/htc/doubleshot/proprietary/lib/hw/sensors.doubleshot.so:system/lib/hw/sensors.doubleshot.so \
   vendor/htc/doubleshot/proprietary/lib/libOlaEngine.so:system/lib/libOlaEngine.so \
   vendor/htc/doubleshot/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
